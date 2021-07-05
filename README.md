@@ -11,11 +11,11 @@ The problem can be written:
 
 This optimization problem can be written:
 
-max g1*g1_profit + g2*g2_profit  
-s.t. (g1*g1_price + g2*g2_price) <= budget  
-     (g1*g1_size + g2*g2_size) <= total_size  
+max g1xg1_profit + g2xg2_profit  
+s.t. (g1xg1_price + g2xg2_price) <= budget  
+     (g1xg1_size + g2xg2_size) <= total_size 
 
-With:
+With:  
 g1, g2 the number of good 1 and 2  
 g1_size, g2_size the size of goods 1 and 2  
 g1_price, g2_price the price of goods 1 and 2  
