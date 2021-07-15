@@ -1,6 +1,6 @@
 # Import Optimizer
 
-With the recent surge of freight prices, many traders are looking to optimize the shipping costs of their merchandise.
+With the recent surge of freight prices, many traders are looking to optimize shipping cost of their merchandise.
 
 This code optimize the income of an import project by taking into account the budget of the import project, the size of the container in cubic meter, the size of the products as well as the gain per product and gives the number of each goods that maximizes the profit.
 
@@ -23,7 +23,7 @@ g1_profit, g2_profit the profit made by the sale of goods 1 and 2
 
 
 ## How
-SciPy optimize provides functions for minimizing or maximizing objective functions.
+SciPy optimize provides functions for minimizing (or maximizing) objective functions.
 
 
 ## How to use
